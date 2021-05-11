@@ -13,5 +13,11 @@ Master2
 =======
 Experimento 1
 
+<<<<<<< HEAD
 Master1
 >>>>>>> ee33770 (Experimento1)
+=======
+Experimento 2
+
+Master1
+>>>>>>> 35ec836 (Experimento2)
