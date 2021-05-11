@@ -7,6 +7,7 @@ Cambios en Git
 Mañana nos enfocaremos en su vida laborarl
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Master1
 
 Master2
@@ -21,3 +22,13 @@ Experimento 2
 
 Master1
 >>>>>>> 35ec836 (Experimento2)
+=======
+
+Master1
+
+
+
+Experimento 1
+
+Experimento 2
+>>>>>>> b2b58d4 (exp12)
