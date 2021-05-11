@@ -6,6 +6,12 @@ Cambios en Git
 
 Mañana nos enfocaremos en su vida laborarl
 
+<<<<<<< HEAD
 Master1
 
 Master2
+=======
+Experimento 1
+
+Master1
+>>>>>>> ee33770 (Experimento1)
